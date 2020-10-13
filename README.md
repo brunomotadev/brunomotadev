@@ -1,4 +1,10 @@
-### Hi there 👋
+### Olá 👋
+
+- 👨‍💻 Meu nome é Bruno Mota, sou formado em análise e desenvolvimento de sistemas na UNINOVE(bolsa de estudos de 100% através do PROUNI). Já trabalhei com Wordpress, Angular, HTML, CSS, Javascript, Firebase e Nodejs.
+
+- 🌱 Atualmente estou fazendo o Bootcamp de Fullstack Developer do Banco Carrefour através da plataforma Digital Innovation One, onde é abordado os seguintes conteúdos: Git & Github, Arquitetura de Sistemas, DDD & Padrões de Arquitetura, PostgreSQL, .NET & C#, .NET Core, Python, SCRUM, TDD com JavaScript e Angular 8.
+
+  [Linkedin](https://www.linkedin.com/in/brunomotadev/)
 
 <!--
 **brunomotadev/brunomotadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
