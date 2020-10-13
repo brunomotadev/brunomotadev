@@ -4,7 +4,9 @@
 
 - 🌱 Atualmente estou fazendo o Bootcamp de Fullstack Developer do Banco Carrefour através da plataforma Digital Innovation One, onde é abordado os seguintes conteúdos: Git & Github, Arquitetura de Sistemas, DDD & Padrões de Arquitetura, PostgreSQL, .NET & C#, .NET Core, Python, SCRUM, TDD com JavaScript e Angular 8.
 
-  [Linkedin](https://www.linkedin.com/in/brunomotadev/)
+  <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
+  <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="horizontal" data-theme="dark" data-vanity="brunomotadev"><a class="LI-simple-link" href='https://br.linkedin.com/in/brunomotadev?trk=profile-badge'>Bruno Mota</a></div>
 
 <!--
 **brunomotadev/brunomotadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
