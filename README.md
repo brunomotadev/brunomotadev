@@ -9,6 +9,7 @@ Possuo mais experiência com: HTML5,CSS3 e JavaScript.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunomotadev&langs_count=10&theme=midnight-purple)](https://github.com/brunomotadev)
+![brunomotadev github stats](https://github-readme-stats.vercel.app/api?username=brunomotadev&show_icons=true&theme=midnight-purple&hide_border=true)
 
 <!--
 **brunomotadev/brunomotadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
