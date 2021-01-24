@@ -8,7 +8,7 @@ Possuo mais experiência com: HTML5,CSS3 e JavaScript.
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunomotadev/)](https://www.linkedin.com/in/brunomotadev/)[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/brunomotadev)](https://github.com/brunomotadev)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunomotadev&langs_count=10&theme=midnight-purple)](https://github.com/brunomotadev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunomotadev&langs_count=10&theme=midnight-purple&hide_border=true)](https://github.com/brunomotadev)
 ![brunomotadev github stats](https://github-readme-stats.vercel.app/api?username=brunomotadev&show_icons=true&theme=midnight-purple&hide_border=true)
 
 <!--
