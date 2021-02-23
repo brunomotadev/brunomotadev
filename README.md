@@ -2,9 +2,7 @@
 
 <hr>
 
-```
 ![.](https://github.com/brunomotadev/brunomotadev/blob/main/imagens/perfil-linkedin.png)
-```
 
 - 👨‍💻 Meu nome é Bruno Mota, cursei análise e desenvolvimento de sistemas. Já trabalhei com Wordpress, Angular, HTML, CSS, Javascript, Firebase e Nodejs.
 
