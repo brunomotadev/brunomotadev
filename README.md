@@ -10,10 +10,6 @@
 
 <hr>
 
-![brunomotadev github stats](https://github-readme-stats.vercel.app/api?username=brunomotadev&show_icons=true&theme=midnight-purple&hide_border=true)
-
-<hr>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunomotadev&langs_count=10&theme=midnight-purple&hide_border=true&layout=compact)
 
 <hr>
